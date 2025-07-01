@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **singh.tanya2004@gmail.com**
 
--  Fun fact **" This year I Dove into a 24-hour hackathon with my two best friends — turned caffeine and chaos into a working prototype"**
+-  Fun fact ** My first AI/ML project was a Cat vs Dog classifier — trained it to favor neither, even though I secretly love cats **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
