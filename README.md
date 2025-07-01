@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **singh.tanya2004@gmail.com**
 
--  Fun fact **I love Cats**
+-  Fun fact **"I’m learning Spanish — so now when I hit an error, it’s an'¡Ay no!'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
