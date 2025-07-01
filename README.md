@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm TANYA SINGH</h1>
 <h3 align="center">A passionate Software developer and AI/ML enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Backend, Cloud**
+-  I’m currently learning **Backend, Cloud**
 
-- 👯 I’m looking to collaborate on **Full Stack and AI/ML Projects**
+-  I’m looking to collaborate on **Full Stack and AI/ML Projects**
 
 - 💬 Ask me about **SQL/NoSQL, C++, AI/ML, React, JS, HTML/CSS**
 
 - 📫 Reach me at **singh.tanya2004@gmail.com**
 
-- ⚡ Fun fact **I love Cats**
+-  Fun fact **I love Cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
