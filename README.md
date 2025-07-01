@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **singh.tanya2004@gmail.com**
 
--  Fun fact **" This year I participated in a 24-hour hackathon with my two best friends — turned caffeine and chaos into a working prototype"**
+-  Fun fact **" This year I Dove into a 24-hour hackathon with my two best friends — turned caffeine and chaos into a working prototype"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
